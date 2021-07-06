@@ -1,0 +1,18 @@
+body{
+    background-image: url(https://thumbs.dreamstime.com/b/seamless-doodles-education-pattern-black-background-hand-drawn-gadgets-office-supplies-pizza-books-plants-laptop-mobile-74849018.jpg);
+}
+
+.container{
+    margin-top: 5%;
+    margin-bottom: 5%;
+    margin-left: 8%;
+    margin-right: 5%;
+    background: linear-gradient(#ffffff 0%,#6cfae2 100% ) ;
+    border-radius: 30px;
+}
+
+h3{
+    background-color: rgb(152, 255, 221);
+   font-weight: bold;
+   width:350px;
+}
